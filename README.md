@@ -1,6 +1,5 @@
 # Tbrain_NLP_game
-玉山人工智慧公開挑戰賽2020夏季賽 - NLP應用挑戰賽
-
+[玉山人工智慧公開挑戰賽2020夏季賽 - NLP應用挑戰賽](https://tbrain.trendmicro.com.tw/Competitions/Details/11)
 # goal
 ![](https://i.imgur.com/IISLYi3.png)
 
@@ -20,4 +19,5 @@ print(cc.convert(text))
 
 + [bert](https://github.com/huggingface/transformers) 
 
-# 
+
++ [中文去符號](https://www.twblogs.net/a/5b8e6cc92b71771883451226)
